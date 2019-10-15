@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "5da4edd4e4c7ac447f564c31",
+    "index": 0,
+    "guid": "b32f7e7b-2ba4-4400-8a9e-5f1e9b15e02c",
+    "isActive": false,
+    "balance": "$2,775.12",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Rollins Howard",
+    "gender": "male",
+    "company": "QABOOS",
+    "email": "rollinshoward@qaboos.com",
+    "phone": "+1 (995) 497-3481",
+    "address": "137 National Drive, Jugtown, Oklahoma, 5296",
+    "about": "Ut do sunt exercitation ad amet esse ad enim dolor ad et. Mollit occaecat irure aliquip culpa voluptate duis. Eiusmod laborum excepteur ea officia consectetur magna officia.\r\n",
+    "registered": "2015-04-29T12:24:29 +07:00",
+    "latitude": -11.83265,
+    "longitude": -131.620527,
+    "tags": [
+      "commodo",
+      "dolore",
+      "id",
+      "tempor",
+      "elit",
+      "ullamco",
+      "veniam"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Elvia Yates"
+      },
+      {
+        "id": 1,
+        "name": "Abbott Bryant"
+      },
+      {
+        "id": 2,
+        "name": "Cardenas Mckay"
+      }
+    ],
+    "greeting": "Hello, Rollins Howard! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
